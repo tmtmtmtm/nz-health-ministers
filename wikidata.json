@@ -1,0 +1,45 @@
+[
+  {
+    "item": {
+      "value": "Q695855",
+      "label": "Arnold Nordmeyer"
+    },
+    "replaces": {
+      "value": "Q15996205",
+      "label": "Tim Armstrong"
+    },
+    "replacedBy": {
+      "value": "Q1882350",
+      "label": "Mabel Howard"
+    },
+    "statement": "Q695855$00FC4259-DE41-449A-BA98-C559587EDDE9",
+    "start": "1941-01-21T00:00:00Z",
+    "end": "1947-05-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "statement": "q180383$ab2039e2-4f5b-52a1-a0c1-d99ed4a7d6dd",
+    "start": "1989-01-30T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4769089",
+      "label": "Annette King"
+    },
+    "replaces": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "replacedBy": {
+      "value": "Q7172024",
+      "label": "Pete Hodgson"
+    },
+    "statement": "Q4769089$325CA755-0F0B-4C9B-8149-DD2850F844A4",
+    "start": "1999-12-10T00:00:00Z",
+    "end": "2005-10-19T00:00:00Z"
+  }
+]
