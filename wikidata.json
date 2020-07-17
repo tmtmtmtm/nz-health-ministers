@@ -259,6 +259,7 @@
       "label": "Mabel Howard"
     },
     "statement": "Q695855$00FC4259-DE41-449A-BA98-C559587EDDE9",
+    "ordinal": "13",
     "start": "1941-01-21T00:00:00Z",
     "end": "1947-05-29T00:00:00Z"
   },
@@ -480,12 +481,165 @@
   },
   {
     "item": {
+      "value": "Q4822818",
+      "label": "Aussie Malcolm"
+    },
+    "replaces": {
+      "value": "Q5539580",
+      "label": "George Gair"
+    },
+    "replacedBy": {
+      "value": "Q6828484",
+      "label": "Michael Bassett"
+    },
+    "statement": "Q4822818$3BA65D58-850E-4E02-8C88-99E3C2C0EE75",
+    "ordinal": "26",
+    "start": "1981-12-11T00:00:00Z",
+    "end": "1984-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6828484",
+      "label": "Michael Bassett"
+    },
+    "replaces": {
+      "value": "Q4822818",
+      "label": "Aussie Malcolm"
+    },
+    "replacedBy": {
+      "value": "Q5232257",
+      "label": "David Caygill"
+    },
+    "statement": "Q6828484$9428F292-721B-46F2-B11D-8FA68E467679",
+    "ordinal": "27",
+    "start": "1984-07-26T00:00:00Z",
+    "end": "1987-08-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5232257",
+      "label": "David Caygill"
+    },
+    "replaces": {
+      "value": "Q6828484",
+      "label": "Michael Bassett"
+    },
+    "replacedBy": {
       "value": "Q180383",
       "label": "Helen Clark"
     },
+    "statement": "Q5232257$A878FEAB-C9E7-4008-852D-A319A1AF0990",
+    "ordinal": "28",
+    "start": "1987-08-24T00:00:00Z",
+    "end": "1989-01-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replaces": {
+      "value": "Q5232257",
+      "label": "David Caygill"
+    },
+    "replacedBy": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
     "statement": "q180383$ab2039e2-4f5b-52a1-a0c1-d99ed4a7d6dd",
+    "ordinal": "29",
     "start": "1989-01-30T00:00:00Z",
     "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "replaces": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replacedBy": {
+      "value": "Q4908149",
+      "label": "Bill Birch"
+    },
+    "statement": "Q7519940$4A04DC73-7DA3-492D-8B29-CEE621D15BAE",
+    "ordinal": "30",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1993-03-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4908149",
+      "label": "Bill Birch"
+    },
+    "replaces": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "replacedBy": {
+      "value": "Q235996",
+      "label": "Jenny Shipley"
+    },
+    "statement": "Q4908149$A5F20DE8-55C3-4570-8D8C-9FFCBA4B7B27",
+    "ordinal": "31",
+    "start": "1993-03-27T00:00:00Z",
+    "end": "1993-11-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q235996",
+      "label": "Jenny Shipley"
+    },
+    "replaces": {
+      "value": "Q4908149",
+      "label": "Bill Birch"
+    },
+    "replacedBy": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "statement": "Q235996$821EE4ED-D874-43B0-8F7E-A2209D2A6500",
+    "ordinal": "32",
+    "start": "1993-11-29T00:00:00Z",
+    "end": "1996-12-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "replaces": {
+      "value": "Q235996",
+      "label": "Jenny Shipley"
+    },
+    "replacedBy": {
+      "value": "Q8039486",
+      "label": "Wyatt Creech"
+    },
+    "statement": "Q4384608$EACA3784-97AF-4EB1-B2AA-53F6DBAEB906",
+    "ordinal": "33",
+    "start": "1996-12-16T00:00:00Z",
+    "end": "1999-02-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q8039486",
+      "label": "Wyatt Creech"
+    },
+    "replaces": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "replacedBy": {
+      "value": "Q4769089",
+      "label": "Annette King"
+    },
+    "statement": "Q8039486$FA0DDEF5-F861-4751-897C-DDE33B4BB4F4",
+    "ordinal": "34",
+    "start": "1999-02-02T00:00:00Z",
+    "end": "1999-12-10T00:00:00Z"
   },
   {
     "item": {
@@ -493,15 +647,119 @@
       "label": "Annette King"
     },
     "replaces": {
-      "value": "Q4384608",
-      "label": "Bill English"
+      "value": "Q8039486",
+      "label": "Wyatt Creech"
     },
     "replacedBy": {
       "value": "Q7172024",
       "label": "Pete Hodgson"
     },
     "statement": "Q4769089$325CA755-0F0B-4C9B-8149-DD2850F844A4",
+    "ordinal": "35",
     "start": "1999-12-10T00:00:00Z",
     "end": "2005-10-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7172024",
+      "label": "Pete Hodgson"
+    },
+    "replaces": {
+      "value": "Q4769089",
+      "label": "Annette King"
+    },
+    "replacedBy": {
+      "value": "Q5232720",
+      "label": "David Cunliffe"
+    },
+    "statement": "Q7172024$B14AED4A-8484-47F1-8148-299B307174CC",
+    "ordinal": "36",
+    "start": "2005-10-19T00:00:00Z",
+    "end": "2007-11-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5232720",
+      "label": "David Cunliffe"
+    },
+    "replaces": {
+      "value": "Q7172024",
+      "label": "Pete Hodgson"
+    },
+    "replacedBy": {
+      "value": "Q7823330",
+      "label": "Tony Ryall"
+    },
+    "statement": "Q5232720$CBBF5A9A-D2D7-46AC-9494-A88297A4AFDD",
+    "ordinal": "37",
+    "start": "2007-11-05T00:00:00Z",
+    "end": "2008-11-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7823330",
+      "label": "Tony Ryall"
+    },
+    "replaces": {
+      "value": "Q5232720",
+      "label": "David Cunliffe"
+    },
+    "replacedBy": {
+      "value": "Q6272804",
+      "label": "Jonathan Coleman"
+    },
+    "statement": "Q7823330$C707A0EA-D13D-41BB-8F3C-02805C3BF488",
+    "ordinal": "38",
+    "start": "2008-11-19T00:00:00Z",
+    "end": "2014-10-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6272804",
+      "label": "Jonathan Coleman"
+    },
+    "replaces": {
+      "value": "Q7823330",
+      "label": "Tony Ryall"
+    },
+    "replacedBy": {
+      "value": "Q3561074",
+      "label": "David Clark"
+    },
+    "statement": "Q6272804$A3C2BEBC-832B-4270-9C0C-09963706D6F5",
+    "ordinal": "39",
+    "start": "2014-10-06T00:00:00Z",
+    "end": "2017-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3561074",
+      "label": "David Clark"
+    },
+    "replaces": {
+      "value": "Q6272804",
+      "label": "Jonathan Coleman"
+    },
+    "replacedBy": {
+      "value": "Q5106890",
+      "label": "Chris Hipkins"
+    },
+    "statement": "Q3561074$E6071E24-926C-4681-A8E6-97C1A4608FFF",
+    "ordinal": "40",
+    "start": "2017-10-26T00:00:00Z",
+    "end": "2020-07-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5106890",
+      "label": "Chris Hipkins"
+    },
+    "replaces": {
+      "value": "Q3561074",
+      "label": "David Clark"
+    },
+    "statement": "Q5106890$CB6E3E02-9149-45C7-A6D1-55ED9A52665F",
+    "ordinal": "41",
+    "start": "2020-07-02T00:00:00Z"
   }
 ]
