@@ -1,6 +1,252 @@
 [
   {
     "item": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replacedBy": {
+      "value": "Q5539387",
+      "label": "George Fowlds"
+    },
+    "statement": "Q1371024$412800C7-DDEE-4B4D-A1DD-34D6F51D6166",
+    "ordinal": "1",
+    "start": "1900-11-08T00:00:00Z",
+    "end": "1906-08-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5539387",
+      "label": "George Fowlds"
+    },
+    "replaces": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replacedBy": {
+      "value": "Q5231868",
+      "label": "David Buddo"
+    },
+    "statement": "Q5539387$DC83716C-DF85-4F5E-8615-C6DB5D19A31D",
+    "ordinal": "2",
+    "start": "1906-08-06T00:00:00Z",
+    "end": "1909-01-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5231868",
+      "label": "David Buddo"
+    },
+    "replaces": {
+      "value": "Q5539387",
+      "label": "George Fowlds"
+    },
+    "replacedBy": {
+      "value": "Q5545896",
+      "label": "George Warren Russell"
+    },
+    "statement": "Q5231868$39E1383D-6155-48AE-A5F2-CF4F337B08A3",
+    "ordinal": "3",
+    "start": "1909-01-06T00:00:00Z",
+    "end": "1912-03-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5545896",
+      "label": "George Warren Russell"
+    },
+    "replaces": {
+      "value": "Q5231868",
+      "label": "David Buddo"
+    },
+    "replacedBy": {
+      "value": "Q5694438",
+      "label": "Heaton Rhodes"
+    },
+    "statement": "Q5545896$66AB8DD0-88E4-464B-8860-184CE00C4381",
+    "ordinal": "4",
+    "start": "1912-03-28T00:00:00Z",
+    "end": "1912-07-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5694438",
+      "label": "Heaton Rhodes"
+    },
+    "replaces": {
+      "value": "Q5545896",
+      "label": "George Warren Russell"
+    },
+    "replacedBy": {
+      "value": "Q5545896",
+      "label": "George Warren Russell"
+    },
+    "statement": "Q5694438$8E81E2E3-823E-499F-84E9-03CC1A3A9196",
+    "ordinal": "5",
+    "start": "1912-07-10T00:00:00Z",
+    "end": "1915-08-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5545896",
+      "label": "George Warren Russell"
+    },
+    "replaces": {
+      "value": "Q5694438",
+      "label": "Heaton Rhodes"
+    },
+    "replacedBy": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "statement": "Q5545896$4ECAFCF3-0FC0-4D5A-9167-F3745053C237",
+    "start": "1915-08-12T00:00:00Z",
+    "end": "1919-08-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "replaces": {
+      "value": "Q5545896",
+      "label": "George Warren Russell"
+    },
+    "replacedBy": {
+      "value": "Q6140966",
+      "label": "James Parr"
+    },
+    "statement": "Q742508$3EA0198E-CCBD-4ACF-B316-49A8F7430539",
+    "ordinal": "6",
+    "start": "1919-09-04T00:00:00Z",
+    "end": "1920-04-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6140966",
+      "label": "James Parr"
+    },
+    "replaces": {
+      "value": "Q742508",
+      "label": "Francis Bell"
+    },
+    "replacedBy": {
+      "value": "Q201495",
+      "label": "Maui Pomare"
+    },
+    "statement": "Q6140966$D97F32F9-4F58-4E72-91B8-D706A104A6B8",
+    "ordinal": "7",
+    "start": "1920-04-03T00:00:00Z",
+    "end": "1923-06-07T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q201495",
+      "label": "Maui Pomare"
+    },
+    "replaces": {
+      "value": "Q6140966",
+      "label": "James Parr"
+    },
+    "replacedBy": {
+      "value": "Q6128574",
+      "label": "James Alexander Young"
+    },
+    "statement": "Q201495$BEFBBFCD-7A1F-4E15-BF9A-31CED39A2462",
+    "ordinal": "8",
+    "start": "1923-06-07T00:00:00Z",
+    "end": "1926-01-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6128574",
+      "label": "James Alexander Young"
+    },
+    "replaces": {
+      "value": "Q201495",
+      "label": "Maui Pomare"
+    },
+    "replacedBy": {
+      "value": "Q4800346",
+      "label": "Arthur Stallworthy"
+    },
+    "statement": "Q6128574$D92A4A50-9FB9-4DFF-9EFC-CA9ACBCF3530",
+    "ordinal": "9",
+    "start": "1926-01-18T00:00:00Z",
+    "end": "1928-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4800346",
+      "label": "Arthur Stallworthy"
+    },
+    "replaces": {
+      "value": "Q6128574",
+      "label": "James Alexander Young"
+    },
+    "replacedBy": {
+      "value": "Q6128574",
+      "label": "James Alexander Young"
+    },
+    "statement": "Q4800346$A6B108FD-1EB2-4528-BD62-7B7226CFDB27",
+    "ordinal": "10",
+    "start": "1928-12-10T00:00:00Z",
+    "end": "1931-09-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6128574",
+      "label": "James Alexander Young"
+    },
+    "replaces": {
+      "value": "Q4800346",
+      "label": "Arthur Stallworthy"
+    },
+    "replacedBy": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "statement": "Q6128574$D2A56E9F-B272-41E5-9D91-14DD1128B369",
+    "start": "1931-09-22T00:00:00Z",
+    "end": "1935-12-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "replaces": {
+      "value": "Q6128574",
+      "label": "James Alexander Young"
+    },
+    "replacedBy": {
+      "value": "Q15996205",
+      "label": "Tim Armstrong"
+    },
+    "statement": "Q1400226$F3A0B56B-2E5E-4727-9B69-F906573E5EFE",
+    "ordinal": "11",
+    "start": "1935-12-06T00:00:00Z",
+    "end": "1940-04-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15996205",
+      "label": "Tim Armstrong"
+    },
+    "replaces": {
+      "value": "Q1400226",
+      "label": "Peter Fraser"
+    },
+    "replacedBy": {
+      "value": "Q695855",
+      "label": "Arnold Nordmeyer"
+    },
+    "statement": "Q15996205$B2513C3E-24C4-4DF6-AEF3-377F6F41879E",
+    "ordinal": "12",
+    "start": "1940-04-30T00:00:00Z",
+    "end": "1941-01-21T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q695855",
       "label": "Arnold Nordmeyer"
     },
@@ -15,6 +261,222 @@
     "statement": "Q695855$00FC4259-DE41-449A-BA98-C559587EDDE9",
     "start": "1941-01-21T00:00:00Z",
     "end": "1947-05-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1882350",
+      "label": "Mabel Howard"
+    },
+    "replaces": {
+      "value": "Q695855",
+      "label": "Arnold Nordmeyer"
+    },
+    "replacedBy": {
+      "value": "Q6115693",
+      "label": "Jack Watts"
+    },
+    "statement": "Q1882350$CC6A9379-971E-40AF-8909-4BCAFB57469D",
+    "ordinal": "14",
+    "start": "1947-05-29T00:00:00Z",
+    "end": "1949-12-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6115693",
+      "label": "Jack Watts"
+    },
+    "replaces": {
+      "value": "Q1882350",
+      "label": "Mabel Howard"
+    },
+    "replacedBy": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "statement": "Q6115693$5324030D-0818-4DC2-8CB3-C2CA4114D677",
+    "ordinal": "15",
+    "start": "1949-12-13T00:00:00Z",
+    "end": "1951-09-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replaces": {
+      "value": "Q6115693",
+      "label": "Jack Watts"
+    },
+    "replacedBy": {
+      "value": "Q3418260",
+      "label": "Ralph Hanan"
+    },
+    "statement": "Q284733$65DB42CC-D27F-4705-B3A6-57A035DF5526",
+    "ordinal": "16",
+    "start": "1951-09-19T00:00:00Z",
+    "end": "1954-11-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3418260",
+      "label": "Ralph Hanan"
+    },
+    "replaces": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replacedBy": {
+      "value": "Q7319248",
+      "label": "Rex Mason"
+    },
+    "statement": "Q3418260$0DB8E298-3D10-47F5-9E30-20261D38AD78",
+    "ordinal": "17",
+    "start": "1954-11-26T00:00:00Z",
+    "end": "1957-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7319248",
+      "label": "Rex Mason"
+    },
+    "replaces": {
+      "value": "Q3418260",
+      "label": "Ralph Hanan"
+    },
+    "replacedBy": {
+      "value": "Q16009386",
+      "label": "Norman Shelton"
+    },
+    "statement": "Q7319248$3373C0C0-E9F9-4834-9EDB-429C7AECB0C1",
+    "ordinal": "18",
+    "start": "1957-12-12T00:00:00Z",
+    "end": "1960-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16009386",
+      "label": "Norman Shelton"
+    },
+    "replaces": {
+      "value": "Q7319248",
+      "label": "Rex Mason"
+    },
+    "replacedBy": {
+      "value": "Q5294944",
+      "label": "Donald Norman McKay"
+    },
+    "statement": "Q16009386$79EABBCC-0684-4A5F-9A93-563F6CC25AA3",
+    "ordinal": "19",
+    "start": "1960-12-12T00:00:00Z",
+    "end": "1962-01-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5294944",
+      "label": "Donald Norman McKay"
+    },
+    "replaces": {
+      "value": "Q16009386",
+      "label": "Norman Shelton"
+    },
+    "replacedBy": {
+      "value": "Q6483310",
+      "label": "Lance Adams-Schneider"
+    },
+    "statement": "Q5294944$CB16B2BB-A564-4D4D-BED7-26A4506151CB",
+    "ordinal": "20",
+    "start": "1962-01-24T00:00:00Z",
+    "end": "1972-02-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6483310",
+      "label": "Lance Adams-Schneider"
+    },
+    "replaces": {
+      "value": "Q5294944",
+      "label": "Donald Norman McKay"
+    },
+    "replacedBy": {
+      "value": "Q4934206",
+      "label": "Bob Tizard"
+    },
+    "statement": "Q6483310$23C3A526-3DED-4561-B943-50F417429F53",
+    "ordinal": "21",
+    "start": "1972-02-09T00:00:00Z",
+    "end": "1972-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4934206",
+      "label": "Bob Tizard"
+    },
+    "replaces": {
+      "value": "Q6483310",
+      "label": "Lance Adams-Schneider"
+    },
+    "replacedBy": {
+      "value": "Q7816811",
+      "label": "Tom McGuigan"
+    },
+    "statement": "Q4934206$7495D8D9-797D-4922-839B-4CF0D626FCD4",
+    "ordinal": "22",
+    "start": "1972-12-08T00:00:00Z",
+    "end": "1974-09-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7816811",
+      "label": "Tom McGuigan"
+    },
+    "replaces": {
+      "value": "Q4934206",
+      "label": "Bob Tizard"
+    },
+    "replacedBy": {
+      "value": "Q5486854",
+      "label": "Frank Gill"
+    },
+    "statement": "Q7816811$01EF2A67-0D09-45E9-B12B-6066471C88C8",
+    "ordinal": "23",
+    "start": "1974-09-10T00:00:00Z",
+    "end": "1975-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5486854",
+      "label": "Frank Gill"
+    },
+    "replaces": {
+      "value": "Q7816811",
+      "label": "Tom McGuigan"
+    },
+    "replacedBy": {
+      "value": "Q5539580",
+      "label": "George Gair"
+    },
+    "statement": "Q5486854$515F8D3A-5B49-4354-AF63-34012FA48179",
+    "ordinal": "24",
+    "start": "1975-12-12T00:00:00Z",
+    "end": "1978-12-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5539580",
+      "label": "George Gair"
+    },
+    "replaces": {
+      "value": "Q5486854",
+      "label": "Frank Gill"
+    },
+    "replacedBy": {
+      "value": "Q4822818",
+      "label": "Aussie Malcolm"
+    },
+    "statement": "Q5539580$145512F0-4BFE-457A-8BCE-E36D9FE00DCA",
+    "ordinal": "25",
+    "start": "1978-12-13T00:00:00Z",
+    "end": "1981-12-11T00:00:00Z"
   },
   {
     "item": {
